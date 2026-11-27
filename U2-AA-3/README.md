@@ -465,10 +465,10 @@ De acuerdo con las normas de integridad académica, declaro el uso de inteligenc
 | | |
 |---|---|
 | **Herramienta** | Claude (Anthropic) |
-| **Para qué se usó** | Apoyo en la resolución de los ejercicios, en su ejecución y envío en mi cuenta de HackerRank, y en la creación de la estructura y la documentación de este repositorio. |
+| **Para qué se usó** | Apoyo en la resolución de los ejercicios, y en la creación de la estructura y la documentación de este repositorio. |
 | **Verificación** | Cada solución fue probada en HackerRank con los casos de prueba de la plataforma (evidencias en cada carpeta). |
 | **Autoría** | Cada código lleva el comentario `@author Erick Andrade Montero`. |
-| **Responsabilidad** | El estudiante presenta este trabajo como suyo y es responsable de su contenido. |
+| **Responsabilidad** | Revisé todo el repositorio y soy responsable de su contenido. |
 
 <div align="center">
 
@@ -477,12 +477,5 @@ De acuerdo con las normas de integridad académica, declaro el uso de inteligenc
 </div>
 
 ---
-
-## ✅ Entregables cumplidos
-
-- [x] Cuenta creada en el sitio (HackerRank).
-- [x] Retos desarrollados (13/13).
-- [x] Comentarios de autoría en cada ejercicio resuelto.
-- [x] Creatividad en la entrega (repositorio con índice, evidencias y navegación).
 
 <p align="center"><a href="#inicio">⬆️ Volver arriba</a></p>
