@@ -468,7 +468,7 @@ De acuerdo con las normas de integridad académica, declaro el uso de inteligenc
 | **Para qué se usó** | Apoyo en la resolución de los ejercicios, y en la creación de la estructura y la documentación de este repositorio. |
 | **Verificación** | Cada solución fue probada en HackerRank con los casos de prueba de la plataforma (evidencias en cada carpeta). |
 | **Autoría** | Cada código lleva el comentario `@author Erick Andrade Montero`. |
-| **Responsabilidad** | El estudiante presenta este trabajo como suyo y es responsable de su contenido. |
+| **Responsabilidad** | Yo revisé cada sección de este repositorio y soy responsable de su contenido. |
 
 <div align="center">
 
