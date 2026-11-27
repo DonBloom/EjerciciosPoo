@@ -24,9 +24,9 @@ Descripción breve de lo que pide la actividad.
 <a id="indice"></a>
 ## 📑 Índice
 
-| # | Ejercicio | Concepto | Código | Evidencias |
-|:-:|---|---|:-:|:-:|
-| 1 | [Nombre del ejercicio](#ej1) | Concepto | [`Solution.java`](01-Nombre/Solution.java) | [📸](01-Nombre/evidencias) |
+| # | Ejercicio | Concepto | Código | Evidencias | Resumen |
+|:-:|---|---|:-:|:-:|:-:|
+| 1 | [Nombre del ejercicio](01-Nombre/) | Concepto | [`Solution.java`](01-Nombre/Solution.java) | [📸](01-Nombre/evidencias) | [↓](#ej1) |
 
 <a id="ejercicios"></a>
 ## 🧩 Ejercicios

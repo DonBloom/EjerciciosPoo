@@ -37,23 +37,23 @@ Práctica de los principios de la POO con Java resolviendo ejercicios en línea 
 <a id="indice"></a>
 ## 📑 Índice
 
-Haz clic en el nombre del ejercicio para ver su explicación, o en el código/evidencias para abrirlos directamente.
+Haz clic en el nombre del ejercicio para abrir su carpeta (explicación, código y evidencias). El enlace ↓ baja al resumen dentro de esta página.
 
-| # | Ejercicio | Concepto | Código | Evidencias |
-|:-:|---|---|:-:|:-:|
-| 1 | [Java BigDecimal](#ej1) | BigNumber | [`Solution.java`](01-Java-BigDecimal/Solution.java) | [📸](01-Java-BigDecimal/evidencias) |
-| 2 | [Java Primality Test](#ej2) | BigNumber | [`Solution.java`](02-Java-Primality-Test/Solution.java) | [📸](02-Java-Primality-Test/evidencias) |
-| 3 | [Java BigInteger](#ej3) | BigNumber | [`Solution.java`](03-Java-BigInteger/Solution.java) | [📸](03-Java-BigInteger/evidencias) |
-| 4 | [Java Inheritance I](#ej4) | POO · Herencia | [`Solution.java`](04-Java-Inheritance-I/Solution.java) | [📸](04-Java-Inheritance-I/evidencias) |
-| 5 | [Java Inheritance II](#ej5) | POO · Herencia | [`Solution.java`](05-Java-Inheritance-II/Solution.java) | [📸](05-Java-Inheritance-II/evidencias) |
-| 6 | [Java Abstract Class](#ej6) | POO · Clases abstractas | [`Main.java`](06-Java-Abstract-Class/Main.java) | [📸](06-Java-Abstract-Class/evidencias) |
-| 7 | [Java Interface](#ej7) | POO · Interfaces | [`Solution.java`](07-Java-Interface/Solution.java) | [📸](07-Java-Interface/evidencias) |
-| 8 | [Java Method Overriding](#ej8) | POO · Polimorfismo | [`Solution.java`](08-Java-Method-Overriding/Solution.java) | [📸](08-Java-Method-Overriding/evidencias) |
-| 9 | [Java Method Overriding 2 (Super Keyword)](#ej9) | POO · Polimorfismo / super | [`Solution.java`](09-Java-Method-Overriding-2-Super/Solution.java) | [📸](09-Java-Method-Overriding-2-Super/evidencias) |
-| 10 | [Java Instanceof keyword](#ej10) | POO · instanceof | [`InstanceOFTutorial.java`](10-Java-Instanceof-Keyword/InstanceOFTutorial.java) | [📸](10-Java-Instanceof-Keyword/evidencias) |
-| 11 | [Java Iterator](#ej11) | Colecciones · Iterator | [`Main.java`](11-Java-Iterator/Main.java) | [📸](11-Java-Iterator/evidencias) |
-| 12 | [Java Exception Handling (Try-catch)](#ej12) | Excepciones | [`Solution.java`](12-Java-Exception-Handling-Try-Catch/Solution.java) | [📸](12-Java-Exception-Handling-Try-Catch/evidencias) |
-| 13 | [Java Exception Handling](#ej13) | Excepciones | [`Solution.java`](13-Java-Exception-Handling/Solution.java) | [📸](13-Java-Exception-Handling/evidencias) |
+| # | Ejercicio | Concepto | Código | Evidencias | Resumen |
+|:-:|---|---|:-:|:-:|:-:|
+| 1 | [Java BigDecimal](01-Java-BigDecimal/) | BigNumber | [`Solution.java`](01-Java-BigDecimal/Solution.java) | [📸](01-Java-BigDecimal/evidencias) | [↓](#ej1) |
+| 2 | [Java Primality Test](02-Java-Primality-Test/) | BigNumber | [`Solution.java`](02-Java-Primality-Test/Solution.java) | [📸](02-Java-Primality-Test/evidencias) | [↓](#ej2) |
+| 3 | [Java BigInteger](03-Java-BigInteger/) | BigNumber | [`Solution.java`](03-Java-BigInteger/Solution.java) | [📸](03-Java-BigInteger/evidencias) | [↓](#ej3) |
+| 4 | [Java Inheritance I](04-Java-Inheritance-I/) | POO · Herencia | [`Solution.java`](04-Java-Inheritance-I/Solution.java) | [📸](04-Java-Inheritance-I/evidencias) | [↓](#ej4) |
+| 5 | [Java Inheritance II](05-Java-Inheritance-II/) | POO · Herencia | [`Solution.java`](05-Java-Inheritance-II/Solution.java) | [📸](05-Java-Inheritance-II/evidencias) | [↓](#ej5) |
+| 6 | [Java Abstract Class](06-Java-Abstract-Class/) | POO · Clases abstractas | [`Main.java`](06-Java-Abstract-Class/Main.java) | [📸](06-Java-Abstract-Class/evidencias) | [↓](#ej6) |
+| 7 | [Java Interface](07-Java-Interface/) | POO · Interfaces | [`Solution.java`](07-Java-Interface/Solution.java) | [📸](07-Java-Interface/evidencias) | [↓](#ej7) |
+| 8 | [Java Method Overriding](08-Java-Method-Overriding/) | POO · Polimorfismo | [`Solution.java`](08-Java-Method-Overriding/Solution.java) | [📸](08-Java-Method-Overriding/evidencias) | [↓](#ej8) |
+| 9 | [Java Method Overriding 2 (Super Keyword)](09-Java-Method-Overriding-2-Super/) | POO · Polimorfismo / super | [`Solution.java`](09-Java-Method-Overriding-2-Super/Solution.java) | [📸](09-Java-Method-Overriding-2-Super/evidencias) | [↓](#ej9) |
+| 10 | [Java Instanceof keyword](10-Java-Instanceof-Keyword/) | POO · instanceof | [`InstanceOFTutorial.java`](10-Java-Instanceof-Keyword/InstanceOFTutorial.java) | [📸](10-Java-Instanceof-Keyword/evidencias) | [↓](#ej10) |
+| 11 | [Java Iterator](11-Java-Iterator/) | Colecciones · Iterator | [`Main.java`](11-Java-Iterator/Main.java) | [📸](11-Java-Iterator/evidencias) | [↓](#ej11) |
+| 12 | [Java Exception Handling (Try-catch)](12-Java-Exception-Handling-Try-Catch/) | Excepciones | [`Solution.java`](12-Java-Exception-Handling-Try-Catch/Solution.java) | [📸](12-Java-Exception-Handling-Try-Catch/evidencias) | [↓](#ej12) |
+| 13 | [Java Exception Handling](13-Java-Exception-Handling/) | Excepciones | [`Solution.java`](13-Java-Exception-Handling/Solution.java) | [📸](13-Java-Exception-Handling/evidencias) | [↓](#ej13) |
 
 **Atajos:** [🏁 Conclusiones](#conclusiones) · [🤖 Declaración de IA](#ia) · [🏠 Inicio del repositorio](../README.md)
 
@@ -465,10 +465,10 @@ De acuerdo con las normas de integridad académica, declaro el uso de inteligenc
 | | |
 |---|---|
 | **Herramienta** | Claude (Anthropic) |
-| **Para qué se usó** | Apoyo en la resolución de los ejercicios, y en la creación de la estructura y la documentación de este repositorio. |
+| **Para qué se usó** | Apoyo en la resolución de los ejercicios, en su ejecución y envío en mi cuenta de HackerRank, y en la creación de la estructura y la documentación de este repositorio. |
 | **Verificación** | Cada solución fue probada en HackerRank con los casos de prueba de la plataforma (evidencias en cada carpeta). |
 | **Autoría** | Cada código lleva el comentario `@author Erick Andrade Montero`. |
-| **Responsabilidad** | Yo revisé cada sección de este repositorio y soy responsable de su contenido. |
+| **Responsabilidad** | El estudiante presenta este trabajo como suyo y es responsable de su contenido. |
 
 <div align="center">
 
@@ -478,5 +478,11 @@ De acuerdo con las normas de integridad académica, declaro el uso de inteligenc
 
 ---
 
+## ✅ Entregables cumplidos
+
+- [x] Cuenta creada en el sitio (HackerRank).
+- [x] Retos desarrollados (13/13).
+- [x] Comentarios de autoría en cada ejercicio resuelto.
+- [x] Creatividad en la entrega (repositorio con índice, evidencias y navegación).
 
 <p align="center"><a href="#inicio">⬆️ Volver arriba</a></p>
