@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-<a href="#actividades">📚 Actividades</a> ·
-<a href="#ia">🤖 Uso de IA</a>
+href="#actividades">📚 Actividades ·
+href="#ia">🤖 Uso de IA
 </p>
 
 Repositorio de actividades de aprendizaje de **Programación Orientada a Objetos** con Java.
