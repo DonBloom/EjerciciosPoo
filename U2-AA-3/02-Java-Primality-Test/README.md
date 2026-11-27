@@ -2,7 +2,7 @@
 
 `BigNumber` · U2-AA-3 · Ejercicio 2 de 13
 
-<p align="center">[⬅️ Anterior](../01-Java-BigDecimal/README.md) · [📑 Índice de la actividad](../README.md#indice) · [Siguiente ➡️](../03-Java-BigInteger/README.md)</p>
+<p align="center"><a href="../01-Java-BigDecimal/README.md">⬅️ Anterior</a> · <a href="../README.md#indice">📑 Índice de la actividad</a> · <a href="../03-Java-BigInteger/README.md">Siguiente ➡️</a></p>
 
 - **Pide:** Decir si un número muy grande es primo (`prime`) o no (`not prime`).
 - **Idea:** `BigInteger.isProbablePrime(100)` evita recorrer divisores en números enormes.
@@ -23,4 +23,4 @@
 
 <img src="evidencias/3-resultado.png" alt="Resultado" width="70%">
 
-<p align="center">[⬅️ Anterior](../01-Java-BigDecimal/README.md) · [📑 Índice de la actividad](../README.md#indice) · [Siguiente ➡️](../03-Java-BigInteger/README.md)</p>
+<p align="center"><a href="../01-Java-BigDecimal/README.md">⬅️ Anterior</a> · <a href="../README.md#indice">📑 Índice de la actividad</a> · <a href="../03-Java-BigInteger/README.md">Siguiente ➡️</a></p>

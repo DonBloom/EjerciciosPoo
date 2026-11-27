@@ -2,7 +2,7 @@
 
 `BigNumber` · U2-AA-3 · Ejercicio 1 de 13
 
-<p align="center">⬅️ Anterior · [📑 Índice de la actividad](../README.md#indice) · [Siguiente ➡️](../02-Java-Primality-Test/README.md)</p>
+<p align="center">⬅️ Anterior · <a href="../README.md#indice">📑 Índice de la actividad</a> · <a href="../02-Java-Primality-Test/README.md">Siguiente ➡️</a></p>
 
 - **Pide:** Ordenar de mayor a menor un arreglo de números reales en texto, sin cambiar su formato; los empates conservan el orden de entrada.
 - **Idea:** `Arrays.sort` con un `Comparator` que compara con `BigDecimal` (el sort de objetos es estable).
@@ -23,4 +23,4 @@
 
 <img src="evidencias/3-resultado.png" alt="Resultado" width="70%">
 
-<p align="center">⬅️ Anterior · [📑 Índice de la actividad](../README.md#indice) · [Siguiente ➡️](../02-Java-Primality-Test/README.md)</p>
+<p align="center">⬅️ Anterior · <a href="../README.md#indice">📑 Índice de la actividad</a> · <a href="../02-Java-Primality-Test/README.md">Siguiente ➡️</a></p>

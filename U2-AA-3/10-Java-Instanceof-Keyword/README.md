@@ -2,7 +2,7 @@
 
 `POO · instanceof` · U2-AA-3 · Ejercicio 10 de 13
 
-<p align="center">[⬅️ Anterior](../09-Java-Method-Overriding-2-Super/README.md) · [📑 Índice de la actividad](../README.md#indice) · [Siguiente ➡️](../11-Java-Iterator/README.md)</p>
+<p align="center"><a href="../09-Java-Method-Overriding-2-Super/README.md">⬅️ Anterior</a> · <a href="../README.md#indice">📑 Índice de la actividad</a> · <a href="../11-Java-Iterator/README.md">Siguiente ➡️</a></p>
 
 - **Pide:** Contar cuántos objetos `Student`, `Rockstar` y `Hacker` hay en un `ArrayList`, completando 3 líneas.
 - **Idea:** `element instanceof Clase` pregunta el tipo real del objeto antes de contarlo.
@@ -23,4 +23,4 @@
 
 <img src="evidencias/3-resultado.png" alt="Resultado" width="70%">
 
-<p align="center">[⬅️ Anterior](../09-Java-Method-Overriding-2-Super/README.md) · [📑 Índice de la actividad](../README.md#indice) · [Siguiente ➡️](../11-Java-Iterator/README.md)</p>
+<p align="center"><a href="../09-Java-Method-Overriding-2-Super/README.md">⬅️ Anterior</a> · <a href="../README.md#indice">📑 Índice de la actividad</a> · <a href="../11-Java-Iterator/README.md">Siguiente ➡️</a></p>

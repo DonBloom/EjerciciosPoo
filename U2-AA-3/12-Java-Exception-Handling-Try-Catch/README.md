@@ -2,7 +2,7 @@
 
 `Excepciones` · U2-AA-3 · Ejercicio 12 de 13
 
-<p align="center">[⬅️ Anterior](../11-Java-Iterator/README.md) · [📑 Índice de la actividad](../README.md#indice) · [Siguiente ➡️](../13-Java-Exception-Handling/README.md)</p>
+<p align="center"><a href="../11-Java-Iterator/README.md">⬅️ Anterior</a> · <a href="../README.md#indice">📑 Índice de la actividad</a> · <a href="../13-Java-Exception-Handling/README.md">Siguiente ➡️</a></p>
 
 - **Pide:** Dividir `x / y` y reportar si hay división por cero o si la entrada no es un entero.
 - **Idea:** `try-catch` con `ArithmeticException` e `InputMismatchException`; `finally` cierra el `Scanner`.
@@ -23,4 +23,4 @@
 
 <img src="evidencias/3-resultado.png" alt="Resultado" width="70%">
 
-<p align="center">[⬅️ Anterior](../11-Java-Iterator/README.md) · [📑 Índice de la actividad](../README.md#indice) · [Siguiente ➡️](../13-Java-Exception-Handling/README.md)</p>
+<p align="center"><a href="../11-Java-Iterator/README.md">⬅️ Anterior</a> · <a href="../README.md#indice">📑 Índice de la actividad</a> · <a href="../13-Java-Exception-Handling/README.md">Siguiente ➡️</a></p>

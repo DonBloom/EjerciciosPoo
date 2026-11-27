@@ -2,7 +2,7 @@
 
 `Excepciones` · U2-AA-3 · Ejercicio 13 de 13
 
-<p align="center">[⬅️ Anterior](../12-Java-Exception-Handling-Try-Catch/README.md) · [📑 Índice de la actividad](../README.md#indice) · [🏁 Conclusiones](../README.md#conclusiones)</p>
+<p align="center"><a href="../12-Java-Exception-Handling-Try-Catch/README.md">⬅️ Anterior</a> · <a href="../README.md#indice">📑 Índice de la actividad</a> · <a href="../README.md#conclusiones">🏁 Conclusiones</a></p>
 
 - **Pide:** Crear `power(n, p)` que calcule n^p y lance excepción si hay negativos o ambos son cero.
 - **Idea:** `throw new Exception(...)` en el método y `try-catch` en `main` que imprime el error.
@@ -23,4 +23,4 @@
 
 <img src="evidencias/3-resultado.png" alt="Resultado" width="70%">
 
-<p align="center">[⬅️ Anterior](../12-Java-Exception-Handling-Try-Catch/README.md) · [📑 Índice de la actividad](../README.md#indice) · [🏁 Conclusiones](../README.md#conclusiones)</p>
+<p align="center"><a href="../12-Java-Exception-Handling-Try-Catch/README.md">⬅️ Anterior</a> · <a href="../README.md#indice">📑 Índice de la actividad</a> · <a href="../README.md#conclusiones">🏁 Conclusiones</a></p>

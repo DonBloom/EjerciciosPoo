@@ -2,7 +2,7 @@
 
 `BigNumber` · U2-AA-3 · Ejercicio 3 de 13
 
-<p align="center">[⬅️ Anterior](../02-Java-Primality-Test/README.md) · [📑 Índice de la actividad](../README.md#indice) · [Siguiente ➡️](../04-Java-Inheritance-I/README.md)</p>
+<p align="center"><a href="../02-Java-Primality-Test/README.md">⬅️ Anterior</a> · <a href="../README.md#indice">📑 Índice de la actividad</a> · <a href="../04-Java-Inheritance-I/README.md">Siguiente ➡️</a></p>
 
 - **Pide:** Leer dos enteros gigantes e imprimir su suma y su producto.
 - **Idea:** `BigInteger` con `add()` y `multiply()`: no hay desbordamiento como con `int` o `long`.
@@ -23,4 +23,4 @@
 
 <img src="evidencias/3-resultado.png" alt="Resultado" width="70%">
 
-<p align="center">[⬅️ Anterior](../02-Java-Primality-Test/README.md) · [📑 Índice de la actividad](../README.md#indice) · [Siguiente ➡️](../04-Java-Inheritance-I/README.md)</p>
+<p align="center"><a href="../02-Java-Primality-Test/README.md">⬅️ Anterior</a> · <a href="../README.md#indice">📑 Índice de la actividad</a> · <a href="../04-Java-Inheritance-I/README.md">Siguiente ➡️</a></p>

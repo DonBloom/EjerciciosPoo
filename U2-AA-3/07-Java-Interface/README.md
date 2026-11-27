@@ -2,7 +2,7 @@
 
 `POO · Interfaces` · U2-AA-3 · Ejercicio 7 de 13
 
-<p align="center">[⬅️ Anterior](../06-Java-Abstract-Class/README.md) · [📑 Índice de la actividad](../README.md#indice) · [Siguiente ➡️](../08-Java-Method-Overriding/README.md)</p>
+<p align="center"><a href="../06-Java-Abstract-Class/README.md">⬅️ Anterior</a> · <a href="../README.md#indice">📑 Índice de la actividad</a> · <a href="../08-Java-Method-Overriding/README.md">Siguiente ➡️</a></p>
 
 - **Pide:** Implementar `divisor_sum(n)` (suma de los divisores de n) en `MyCalculator`, que implementa `AdvancedArithmetic`.
 - **Idea:** Se recorre hasta √n sumando `i` y `n/i`; la interfaz obliga a definir el método.
@@ -23,4 +23,4 @@
 
 <img src="evidencias/3-resultado.png" alt="Resultado" width="70%">
 
-<p align="center">[⬅️ Anterior](../06-Java-Abstract-Class/README.md) · [📑 Índice de la actividad](../README.md#indice) · [Siguiente ➡️](../08-Java-Method-Overriding/README.md)</p>
+<p align="center"><a href="../06-Java-Abstract-Class/README.md">⬅️ Anterior</a> · <a href="../README.md#indice">📑 Índice de la actividad</a> · <a href="../08-Java-Method-Overriding/README.md">Siguiente ➡️</a></p>
