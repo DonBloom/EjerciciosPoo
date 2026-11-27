@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Programación Orientada a Objetos - UNL">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f2027"/><stop offset="0.5" stop-color="#203a43"/><stop offset="1" stop-color="#2c5364"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="18" fill="url(#g)"/>
+  <g font-family="Consolas, 'Courier New', monospace" fill="#ED8B00" opacity="0.22" font-size="22">
+    <text x="40" y="60">class Estudiante extends Persona {</text>
+    <text x="70" y="90">@Override public void estudiar() { ... }</text>
+    <text x="40" y="120">}</text>
+    <text x="700" y="190">interface Programable { void compilar(); }</text>
+    <text x="730" y="220">try { ... } catch (Exception e) { ... }</text>
+  </g>
+  <text x="600" y="120" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="700" fill="#ffffff">Programación Orientada a Objetos</text>
+  <text x="600" y="168" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="26" fill="#9fd3e6">Java  ·  Universidad Nacional de Loja  ·  2.º ciclo "A"</text>
+  <text x="600" y="210" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="20" fill="#ED8B00">public static void main(String[] args)</text>
+</svg>

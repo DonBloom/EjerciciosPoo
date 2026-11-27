@@ -1,0 +1,21 @@
+/** @author Erick Andrade Montero */
+import java.io.*;
+import java.math.*;
+import java.util.*;
+
+public class Solution {
+    public static void main(String[] args) throws IOException {
+        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
+
+        String n = bufferedReader.readLine();
+
+        bufferedReader.close();
+
+        BigInteger num = new BigInteger(n.trim());
+        if (num.isProbablePrime(100)) {
+            System.out.println("prime");
+        } else {
+            System.out.println("not prime");
+        }
+    }
+}
