@@ -8,10 +8,6 @@
 <img src="https://img.shields.io/badge/Lenguaje-Java-007396" alt="Java">
 </p>
 
-<p align="center">
-<a href="#actividades">📚 Actividades</a> ·
-<a href="#ia">🤖 Uso de IA</a>
-</p>
 
 Repositorio de actividades de aprendizaje de **Programación Orientada a Objetos** con Java.
 
