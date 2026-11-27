@@ -1,12 +1,21 @@
+<a id="inicio"></a>
 <p align="center"><img src="../assets/banner.svg" alt="U2-AA-3" width="100%"></p>
 
 # U2-AA-3 · Ejercicios de Programación Orientada a Objetos con Java
 
 <p align="center">
-<img src="https://img.shields.io/badge/Lenguaje-Java-ED8B00?logo=openjdk&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/Plataforma-HackerRank-00EA64?logo=hackerrank&logoColor=white" alt="HackerRank">
+<img src="https://img.shields.io/badge/Lenguaje-Java-ED8B00" alt="Java">
+<img src="https://img.shields.io/badge/Plataforma-HackerRank-00EA64" alt="HackerRank">
 <img src="https://img.shields.io/badge/Ejercicios-13%2F13-brightgreen" alt="13/13">
 <img src="https://img.shields.io/badge/Estado-Completado-success" alt="Completado">
+</p>
+
+<p align="center">
+<a href="../README.md">🏠 Inicio</a> ·
+<a href="#indice">📑 Índice</a> ·
+<a href="#ejercicios">🧩 Ejercicios</a> ·
+<a href="#conclusiones">🏁 Conclusiones</a> ·
+<a href="#ia">🤖 Declaración de IA</a>
 </p>
 
 ## 🪪 Datos
@@ -25,7 +34,10 @@
 
 Práctica de los principios de la POO con Java resolviendo ejercicios en línea de [HackerRank](https://www.hackerrank.com/domains/java). Subdominios elegidos: **Object Oriented Programming**, **Exception Handling** y **BigNumber**, para un total de **13 ejercicios**.
 
+<a id="indice"></a>
 ## 📑 Índice
+
+Haz clic en el nombre del ejercicio para ver su explicación, o en el código/evidencias para abrirlos directamente.
 
 | # | Ejercicio | Concepto | Código | Evidencias |
 |:-:|---|---|:-:|:-:|
@@ -43,8 +55,11 @@ Práctica de los principios de la POO con Java resolviendo ejercicios en línea 
 | 12 | [Java Exception Handling (Try-catch)](#ej12) | Excepciones | [`Solution.java`](12-Java-Exception-Handling-Try-Catch/Solution.java) | [📸](12-Java-Exception-Handling-Try-Catch/evidencias) |
 | 13 | [Java Exception Handling](#ej13) | Excepciones | [`Solution.java`](13-Java-Exception-Handling/Solution.java) | [📸](13-Java-Exception-Handling/evidencias) |
 
+**Atajos:** [🏁 Conclusiones](#conclusiones) · [🤖 Declaración de IA](#ia) · [🏠 Inicio del repositorio](../README.md)
+
 ---
 
+<a id="ejercicios"></a>
 ## 🧩 Ejercicios
 
 <a id="ej1"></a>
@@ -55,7 +70,7 @@ Práctica de los principios de la POO con Java resolviendo ejercicios en línea 
 - **Pide:** Ordenar de mayor a menor un arreglo de números reales en texto, sin cambiar su formato; los empates conservan el orden de entrada.
 - **Idea:** `Arrays.sort` con un `Comparator` que compara con `BigDecimal` (el sort de objetos es estable).
 
-📄 [Ver código](01-Java-BigDecimal/Solution.java) · 🖼️ [Carpeta de evidencias](01-Java-BigDecimal/evidencias)
+📄 [Ver código](01-Java-BigDecimal/Solution.java) · 🖼️ [Evidencias](01-Java-BigDecimal/evidencias) · 📂 [Carpeta del ejercicio](01-Java-BigDecimal/)
 
 <details>
 <summary>📸 Ver evidencias</summary>
@@ -68,7 +83,11 @@ Práctica de los principios de la POO con Java resolviendo ejercicios en línea 
 
 </details>
 
-<p align="right"><a href="#-índice">⬆️ Volver al índice</a></p>
+<div align="center">
+
+⬆️ [Índice](#indice) · [Siguiente](#ej2) ➡️
+
+</div>
 
 ---
 
@@ -80,7 +99,7 @@ Práctica de los principios de la POO con Java resolviendo ejercicios en línea 
 - **Pide:** Decir si un número muy grande es primo (`prime`) o no (`not prime`).
 - **Idea:** `BigInteger.isProbablePrime(100)` evita recorrer divisores en números enormes.
 
-📄 [Ver código](02-Java-Primality-Test/Solution.java) · 🖼️ [Carpeta de evidencias](02-Java-Primality-Test/evidencias)
+📄 [Ver código](02-Java-Primality-Test/Solution.java) · 🖼️ [Evidencias](02-Java-Primality-Test/evidencias) · 📂 [Carpeta del ejercicio](02-Java-Primality-Test/)
 
 <details>
 <summary>📸 Ver evidencias</summary>
@@ -93,7 +112,11 @@ Práctica de los principios de la POO con Java resolviendo ejercicios en línea 
 
 </details>
 
-<p align="right"><a href="#-índice">⬆️ Volver al índice</a></p>
+<div align="center">
+
+⬅️ [Anterior](#ej1) · ⬆️ [Índice](#indice) · [Siguiente](#ej3) ➡️
+
+</div>
 
 ---
 
@@ -105,7 +128,7 @@ Práctica de los principios de la POO con Java resolviendo ejercicios en línea 
 - **Pide:** Leer dos enteros gigantes e imprimir su suma y su producto.
 - **Idea:** `BigInteger` con `add()` y `multiply()`: no hay desbordamiento como con `int` o `long`.
 
-📄 [Ver código](03-Java-BigInteger/Solution.java) · 🖼️ [Carpeta de evidencias](03-Java-BigInteger/evidencias)
+📄 [Ver código](03-Java-BigInteger/Solution.java) · 🖼️ [Evidencias](03-Java-BigInteger/evidencias) · 📂 [Carpeta del ejercicio](03-Java-BigInteger/)
 
 <details>
 <summary>📸 Ver evidencias</summary>
@@ -118,7 +141,11 @@ Práctica de los principios de la POO con Java resolviendo ejercicios en línea 
 
 </details>
 
-<p align="right"><a href="#-índice">⬆️ Volver al índice</a></p>
+<div align="center">
+
+⬅️ [Anterior](#ej2) · ⬆️ [Índice](#indice) · [Siguiente](#ej4) ➡️
+
+</div>
 
 ---
 
@@ -130,7 +157,7 @@ Práctica de los principios de la POO con Java resolviendo ejercicios en línea 
 - **Pide:** Hacer que `Bird` herede de `Animal` y tenga además `fly()` y `sing()`.
 - **Idea:** Con `extends`, `Bird` reutiliza `walk()` del padre y agrega sus propios métodos.
 
-📄 [Ver código](04-Java-Inheritance-I/Solution.java) · 🖼️ [Carpeta de evidencias](04-Java-Inheritance-I/evidencias)
+📄 [Ver código](04-Java-Inheritance-I/Solution.java) · 🖼️ [Evidencias](04-Java-Inheritance-I/evidencias) · 📂 [Carpeta del ejercicio](04-Java-Inheritance-I/)
 
 <details>
 <summary>📸 Ver evidencias</summary>
@@ -143,7 +170,11 @@ Práctica de los principios de la POO con Java resolviendo ejercicios en línea 
 
 </details>
 
-<p align="right"><a href="#-índice">⬆️ Volver al índice</a></p>
+<div align="center">
+
+⬅️ [Anterior](#ej3) · ⬆️ [Índice](#indice) · [Siguiente](#ej5) ➡️
+
+</div>
 
 ---
 
@@ -155,7 +186,7 @@ Práctica de los principios de la POO con Java resolviendo ejercicios en línea 
 - **Pide:** Crear `Adder` que herede de `Arithmetic` y usar su método `add` sin reescribirlo.
 - **Idea:** `class Adder extends Arithmetic` y `getClass().getSuperclass().getName()` para mostrar el padre.
 
-📄 [Ver código](05-Java-Inheritance-II/Solution.java) · 🖼️ [Carpeta de evidencias](05-Java-Inheritance-II/evidencias)
+📄 [Ver código](05-Java-Inheritance-II/Solution.java) · 🖼️ [Evidencias](05-Java-Inheritance-II/evidencias) · 📂 [Carpeta del ejercicio](05-Java-Inheritance-II/)
 
 <details>
 <summary>📸 Ver evidencias</summary>
@@ -168,7 +199,11 @@ Práctica de los principios de la POO con Java resolviendo ejercicios en línea 
 
 </details>
 
-<p align="right"><a href="#-índice">⬆️ Volver al índice</a></p>
+<div align="center">
+
+⬅️ [Anterior](#ej4) · ⬆️ [Índice](#indice) · [Siguiente](#ej6) ➡️
+
+</div>
 
 ---
 
@@ -180,7 +215,7 @@ Práctica de los principios de la POO con Java resolviendo ejercicios en línea 
 - **Pide:** Implementar `MyBook` a partir de la clase abstracta `Book` para guardar y mostrar un título.
 - **Idea:** Una clase abstracta no se instancia: la hija debe implementar `setTitle`.
 
-📄 [Ver código](06-Java-Abstract-Class/Main.java) · 🖼️ [Carpeta de evidencias](06-Java-Abstract-Class/evidencias)
+📄 [Ver código](06-Java-Abstract-Class/Main.java) · 🖼️ [Evidencias](06-Java-Abstract-Class/evidencias) · 📂 [Carpeta del ejercicio](06-Java-Abstract-Class/)
 
 <details>
 <summary>📸 Ver evidencias</summary>
@@ -193,7 +228,11 @@ Práctica de los principios de la POO con Java resolviendo ejercicios en línea 
 
 </details>
 
-<p align="right"><a href="#-índice">⬆️ Volver al índice</a></p>
+<div align="center">
+
+⬅️ [Anterior](#ej5) · ⬆️ [Índice](#indice) · [Siguiente](#ej7) ➡️
+
+</div>
 
 ---
 
@@ -205,7 +244,7 @@ Práctica de los principios de la POO con Java resolviendo ejercicios en línea 
 - **Pide:** Implementar `divisor_sum(n)` (suma de los divisores de n) en `MyCalculator`, que implementa `AdvancedArithmetic`.
 - **Idea:** Se recorre hasta √n sumando `i` y `n/i`; la interfaz obliga a definir el método.
 
-📄 [Ver código](07-Java-Interface/Solution.java) · 🖼️ [Carpeta de evidencias](07-Java-Interface/evidencias)
+📄 [Ver código](07-Java-Interface/Solution.java) · 🖼️ [Evidencias](07-Java-Interface/evidencias) · 📂 [Carpeta del ejercicio](07-Java-Interface/)
 
 <details>
 <summary>📸 Ver evidencias</summary>
@@ -218,7 +257,11 @@ Práctica de los principios de la POO con Java resolviendo ejercicios en línea 
 
 </details>
 
-<p align="right"><a href="#-índice">⬆️ Volver al índice</a></p>
+<div align="center">
+
+⬅️ [Anterior](#ej6) · ⬆️ [Índice](#indice) · [Siguiente](#ej8) ➡️
+
+</div>
 
 ---
 
@@ -230,7 +273,7 @@ Práctica de los principios de la POO con Java resolviendo ejercicios en línea 
 - **Pide:** Sobrescribir en `Soccer` el método `getNumberOfTeamMembers` para que diga que hay 11 jugadores.
 - **Idea:** `@Override` cambia el comportamiento heredado; Java elige la versión según el objeto real.
 
-📄 [Ver código](08-Java-Method-Overriding/Solution.java) · 🖼️ [Carpeta de evidencias](08-Java-Method-Overriding/evidencias)
+📄 [Ver código](08-Java-Method-Overriding/Solution.java) · 🖼️ [Evidencias](08-Java-Method-Overriding/evidencias) · 📂 [Carpeta del ejercicio](08-Java-Method-Overriding/)
 
 <details>
 <summary>📸 Ver evidencias</summary>
@@ -243,7 +286,11 @@ Práctica de los principios de la POO con Java resolviendo ejercicios en línea 
 
 </details>
 
-<p align="right"><a href="#-índice">⬆️ Volver al índice</a></p>
+<div align="center">
+
+⬅️ [Anterior](#ej7) · ⬆️ [Índice](#indice) · [Siguiente](#ej9) ➡️
+
+</div>
 
 ---
 
@@ -255,7 +302,7 @@ Práctica de los principios de la POO con Java resolviendo ejercicios en línea 
 - **Pide:** Hacer que `MotorCycle` llame al `define_me()` de su clase padre `BiCycle`, no al suyo.
 - **Idea:** `super.define_me()` accede a la versión del padre aunque el método esté sobrescrito.
 
-📄 [Ver código](09-Java-Method-Overriding-2-Super/Solution.java) · 🖼️ [Carpeta de evidencias](09-Java-Method-Overriding-2-Super/evidencias)
+📄 [Ver código](09-Java-Method-Overriding-2-Super/Solution.java) · 🖼️ [Evidencias](09-Java-Method-Overriding-2-Super/evidencias) · 📂 [Carpeta del ejercicio](09-Java-Method-Overriding-2-Super/)
 
 <details>
 <summary>📸 Ver evidencias</summary>
@@ -268,7 +315,11 @@ Práctica de los principios de la POO con Java resolviendo ejercicios en línea 
 
 </details>
 
-<p align="right"><a href="#-índice">⬆️ Volver al índice</a></p>
+<div align="center">
+
+⬅️ [Anterior](#ej8) · ⬆️ [Índice](#indice) · [Siguiente](#ej10) ➡️
+
+</div>
 
 ---
 
@@ -280,7 +331,7 @@ Práctica de los principios de la POO con Java resolviendo ejercicios en línea 
 - **Pide:** Contar cuántos objetos `Student`, `Rockstar` y `Hacker` hay en un `ArrayList`, completando 3 líneas.
 - **Idea:** `element instanceof Clase` pregunta el tipo real del objeto antes de contarlo.
 
-📄 [Ver código](10-Java-Instanceof-Keyword/InstanceOFTutorial.java) · 🖼️ [Carpeta de evidencias](10-Java-Instanceof-Keyword/evidencias)
+📄 [Ver código](10-Java-Instanceof-Keyword/InstanceOFTutorial.java) · 🖼️ [Evidencias](10-Java-Instanceof-Keyword/evidencias) · 📂 [Carpeta del ejercicio](10-Java-Instanceof-Keyword/)
 
 <details>
 <summary>📸 Ver evidencias</summary>
@@ -293,7 +344,11 @@ Práctica de los principios de la POO con Java resolviendo ejercicios en línea 
 
 </details>
 
-<p align="right"><a href="#-índice">⬆️ Volver al índice</a></p>
+<div align="center">
+
+⬅️ [Anterior](#ej9) · ⬆️ [Índice](#indice) · [Siguiente](#ej11) ➡️
+
+</div>
 
 ---
 
@@ -305,7 +360,7 @@ Práctica de los principios de la POO con Java resolviendo ejercicios en línea 
 - **Pide:** Modificar 2 líneas para imprimir solo lo que viene después de la cadena especial `###`.
 - **Idea:** Se avanza con `it.next()` hasta el primer `String` (`instanceof String`); el resto queda en el iterador.
 
-📄 [Ver código](11-Java-Iterator/Main.java) · 🖼️ [Carpeta de evidencias](11-Java-Iterator/evidencias)
+📄 [Ver código](11-Java-Iterator/Main.java) · 🖼️ [Evidencias](11-Java-Iterator/evidencias) · 📂 [Carpeta del ejercicio](11-Java-Iterator/)
 
 <details>
 <summary>📸 Ver evidencias</summary>
@@ -318,7 +373,11 @@ Práctica de los principios de la POO con Java resolviendo ejercicios en línea 
 
 </details>
 
-<p align="right"><a href="#-índice">⬆️ Volver al índice</a></p>
+<div align="center">
+
+⬅️ [Anterior](#ej10) · ⬆️ [Índice](#indice) · [Siguiente](#ej12) ➡️
+
+</div>
 
 ---
 
@@ -330,7 +389,7 @@ Práctica de los principios de la POO con Java resolviendo ejercicios en línea 
 - **Pide:** Dividir `x / y` y reportar si hay división por cero o si la entrada no es un entero.
 - **Idea:** `try-catch` con `ArithmeticException` e `InputMismatchException`; `finally` cierra el `Scanner`.
 
-📄 [Ver código](12-Java-Exception-Handling-Try-Catch/Solution.java) · 🖼️ [Carpeta de evidencias](12-Java-Exception-Handling-Try-Catch/evidencias)
+📄 [Ver código](12-Java-Exception-Handling-Try-Catch/Solution.java) · 🖼️ [Evidencias](12-Java-Exception-Handling-Try-Catch/evidencias) · 📂 [Carpeta del ejercicio](12-Java-Exception-Handling-Try-Catch/)
 
 <details>
 <summary>📸 Ver evidencias</summary>
@@ -343,7 +402,11 @@ Práctica de los principios de la POO con Java resolviendo ejercicios en línea 
 
 </details>
 
-<p align="right"><a href="#-índice">⬆️ Volver al índice</a></p>
+<div align="center">
+
+⬅️ [Anterior](#ej11) · ⬆️ [Índice](#indice) · [Siguiente](#ej13) ➡️
+
+</div>
 
 ---
 
@@ -355,7 +418,7 @@ Práctica de los principios de la POO con Java resolviendo ejercicios en línea 
 - **Pide:** Crear `power(n, p)` que calcule n^p y lance excepción si hay negativos o ambos son cero.
 - **Idea:** `throw new Exception(...)` en el método y `try-catch` en `main` que imprime el error.
 
-📄 [Ver código](13-Java-Exception-Handling/Solution.java) · 🖼️ [Carpeta de evidencias](13-Java-Exception-Handling/evidencias)
+📄 [Ver código](13-Java-Exception-Handling/Solution.java) · 🖼️ [Evidencias](13-Java-Exception-Handling/evidencias) · 📂 [Carpeta del ejercicio](13-Java-Exception-Handling/)
 
 <details>
 <summary>📸 Ver evidencias</summary>
@@ -368,24 +431,58 @@ Práctica de los principios de la POO con Java resolviendo ejercicios en línea 
 
 </details>
 
-<p align="right"><a href="#-índice">⬆️ Volver al índice</a></p>
+<div align="center">
+
+⬅️ [Anterior](#ej12) · ⬆️ [Índice](#indice) · [Conclusiones](#conclusiones) ➡️
+
+</div>
 
 ---
 
+<a id="conclusiones"></a>
+## 🏁 Conclusiones
+
+- Se aplicaron los pilares de la POO: **herencia** (Inheritance I y II), **abstracción** (clase abstracta e interfaz) y **polimorfismo** (`@Override` y `super`).
+- `instanceof` e `Iterator` permitieron trabajar con objetos de distintos tipos dentro de una colección.
+- El manejo de excepciones (`try-catch-finally` y `throw`) hace que el programa responda a los errores sin detenerse de golpe.
+- `BigDecimal` y `BigInteger` resuelven los límites de `int` y `long` con números muy grandes o con decimales que deben ser exactos.
+- Algunos ejercicios limitan cuántas líneas se pueden modificar (Instanceof e Iterator): hay que leer bien el enunciado, porque hasta un comentario extra en otra línea puede invalidar la solución.
+- **Resultado:** 13 de 13 ejercicios resueltos y verificados en HackerRank.
+
+<div align="center">
+
+⬅️ [Anterior](#ej13) · ⬆️ [Índice](#indice) · [Declaración de IA](#ia) ➡️
+
+</div>
+
+---
+
+<a id="ia"></a>
 ## 🤖 Declaración del uso de IA
 
 De acuerdo con las normas de integridad académica, declaro el uso de inteligencia artificial en esta actividad:
 
-- **Herramienta:** Claude (Anthropic).
-- **Para qué se usó:** apoyo en la resolución de los ejercicios, en su ejecución y envío en mi cuenta de HackerRank, y en la creación de la estructura y la documentación de este repositorio.
-- **Código:** cada solución fue probada en HackerRank con los casos de prueba de la plataforma (evidencias en cada carpeta) y lleva el comentario de autoría `@author Erick Andrade Montero`.
-- **Responsabilidad:** el estudiante presenta este trabajo como suyo y es responsable de su contenido.
+| | |
+|---|---|
+| **Herramienta** | Claude (Anthropic) |
+| **Para qué se usó** | Apoyo en la resolución de los ejercicios, en su ejecución y envío en mi cuenta de HackerRank, y en la creación de la estructura y la documentación de este repositorio. |
+| **Verificación** | Cada solución fue probada en HackerRank con los casos de prueba de la plataforma (evidencias en cada carpeta). |
+| **Autoría** | Cada código lleva el comentario `@author Erick Andrade Montero`. |
+| **Responsabilidad** | El estudiante presenta este trabajo como suyo y es responsable de su contenido. |
+
+<div align="center">
+
+⬅️ [Conclusiones](#conclusiones) · ⬆️ [Índice](#indice) · [🏠 Inicio del repositorio](../README.md)
+
+</div>
+
+---
 
 ## ✅ Entregables cumplidos
 
 - [x] Cuenta creada en el sitio (HackerRank).
 - [x] Retos desarrollados (13/13).
 - [x] Comentarios de autoría en cada ejercicio resuelto.
-- [x] Creatividad en la entrega (repositorio con índice y evidencias).
+- [x] Creatividad en la entrega (repositorio con índice, evidencias y navegación).
 
-<p align="center"><a href="../README.md">⬅️ Volver al repositorio principal</a></p>
+<p align="center"><a href="#inicio">⬆️ Volver arriba</a></p>

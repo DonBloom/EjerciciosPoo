@@ -5,14 +5,13 @@
     </linearGradient>
   </defs>
   <rect width="1200" height="260" rx="18" fill="url(#g)"/>
-  <g font-family="Consolas, 'Courier New', monospace" fill="#ED8B00" opacity="0.22" font-size="22">
-    <text x="40" y="60">class Estudiante extends Persona {</text>
-    <text x="70" y="90">@Override public void estudiar() { ... }</text>
-    <text x="40" y="120">}</text>
-    <text x="700" y="190">interface Programable { void compilar(); }</text>
-    <text x="730" y="220">try { ... } catch (Exception e) { ... }</text>
+  <g font-family="Consolas, 'Courier New', monospace" fill="#ED8B00" opacity="0.28" font-size="18">
+    <text x="36" y="38">class Estudiante extends Persona { ... }</text>
+    <text x="1164" y="38" text-anchor="end">interface Programable { void compilar(); }</text>
+    <text x="36" y="238">try { ... } catch (Exception e) { ... }</text>
+    <text x="1164" y="238" text-anchor="end">@Override public void estudiar()</text>
   </g>
-  <text x="600" y="120" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="700" fill="#ffffff">Programación Orientada a Objetos</text>
-  <text x="600" y="168" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="26" fill="#9fd3e6">Java  ·  Universidad Nacional de Loja  ·  2.º ciclo "A"</text>
+  <text x="600" y="125" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" fill="#ffffff">Programación Orientada a Objetos</text>
+  <text x="600" y="172" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="26" fill="#9fd3e6">Java  ·  Universidad Nacional de Loja  ·  2.º ciclo "A"</text>
   <text x="600" y="210" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="20" fill="#ED8B00">public static void main(String[] args)</text>
 </svg>

@@ -1,4 +1,13 @@
+<a id="inicio"></a>
 # U2-AA-X · Título de la actividad
+
+<p align="center">
+<a href="../README.md">🏠 Inicio</a> ·
+<a href="#indice">📑 Índice</a> ·
+<a href="#ejercicios">🧩 Ejercicios</a> ·
+<a href="#conclusiones">🏁 Conclusiones</a> ·
+<a href="#ia">🤖 Declaración de IA</a>
+</p>
 
 | | |
 |---|---|
@@ -12,12 +21,14 @@
 
 Descripción breve de lo que pide la actividad.
 
+<a id="indice"></a>
 ## 📑 Índice
 
 | # | Ejercicio | Concepto | Código | Evidencias |
 |:-:|---|---|:-:|:-:|
 | 1 | [Nombre del ejercicio](#ej1) | Concepto | [`Solution.java`](01-Nombre/Solution.java) | [📸](01-Nombre/evidencias) |
 
+<a id="ejercicios"></a>
 ## 🧩 Ejercicios
 
 <a id="ej1"></a>
@@ -28,8 +39,20 @@ Descripción breve de lo que pide la actividad.
 
 📄 [Ver código](01-Nombre/Solution.java) · 🖼️ [Evidencias](01-Nombre/evidencias)
 
+<div align="center">
+
+⬆️ [Índice](#indice) · [Conclusiones](#conclusiones) ➡️
+
+</div>
+
+<a id="conclusiones"></a>
+## 🏁 Conclusiones
+
+- Qué se aprendió.
+
+<a id="ia"></a>
 ## 🤖 Declaración del uso de IA
 
 Indicar si se usó IA, con qué herramienta y para qué.
 
-<p align="center"><a href="../README.md">⬅️ Volver al repositorio principal</a></p>
+<p align="center"><a href="#inicio">⬆️ Volver arriba</a></p>
